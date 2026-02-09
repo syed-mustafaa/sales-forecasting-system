@@ -1,0 +1,51 @@
+product_id,product_name,category,stock_on_hand,reorder_point,safety_stock,eoq,risk_status
+PROD_0001,Books - Surface,Books,0,70.0,22.0,113.0,Low Stock - Reorder Now
+PROD_0002,Electronics - Animal,Electronics,48,62.0,20.0,71.0,Low Stock - Reorder Now
+PROD_0003,Books - Show,Books,7,70.0,24.0,75.0,Low Stock - Reorder Now
+PROD_0004,Toys - Machine,Toys,56,68.0,21.0,75.0,Low Stock - Reorder Now
+PROD_0005,Home Appliances - Not,Home Appliances,47,21.0,10.0,43.0,Healthy
+PROD_0006,Home Appliances - Capital,Home Appliances,41,27.0,14.0,35.0,Healthy
+PROD_0007,Toys - Win,Toys,3,28.0,13.0,110.0,Low Stock - Reorder Now
+PROD_0008,Clothing - Human,Clothing,42,78.0,25.0,42.0,Low Stock - Reorder Now
+PROD_0009,Electronics - Bar,Electronics,63,78.0,23.0,39.0,Low Stock - Reorder Now
+PROD_0010,Clothing - Old,Clothing,34,31.0,13.0,36.0,Healthy
+PROD_0011,Books - Finally,Books,45,71.0,23.0,78.0,Low Stock - Reorder Now
+PROD_0012,Clothing - Themselves,Clothing,25,28.0,13.0,38.0,Low Stock - Reorder Now
+PROD_0013,Toys - Production,Toys,10,26.0,11.0,55.0,Low Stock - Reorder Now
+PROD_0014,Home Appliances - Present,Home Appliances,93,39.0,16.0,56.0,Healthy
+PROD_0015,Electronics - Value,Electronics,93,75.0,23.0,47.0,Healthy
+PROD_0016,Home Appliances - Training,Home Appliances,32,73.0,26.0,51.0,Low Stock - Reorder Now
+PROD_0017,Home Appliances - High,Home Appliances,31,69.0,20.0,45.0,Low Stock - Reorder Now
+PROD_0018,Home Appliances - Participant,Home Appliances,59,38.0,15.0,41.0,Healthy
+PROD_0019,Clothing - Dark,Clothing,13,23.0,11.0,114.0,Low Stock - Reorder Now
+PROD_0020,Clothing - Sea,Clothing,98,29.0,13.0,71.0,Healthy
+PROD_0021,Home Appliances - Available,Home Appliances,66,74.0,23.0,69.0,Low Stock - Reorder Now
+PROD_0022,Books - Answer,Books,93,24.0,11.0,64.0,Healthy
+PROD_0023,Toys - Recently,Toys,60,21.0,11.0,55.0,Healthy
+PROD_0024,Books - Drive,Books,80,26.0,13.0,47.0,Healthy
+PROD_0025,Home Appliances - Spring,Home Appliances,48,36.0,15.0,45.0,Healthy
+PROD_0026,Books - Figure,Books,90,36.0,14.0,140.0,Healthy
+PROD_0027,Books - Base,Books,30,61.0,20.0,66.0,Low Stock - Reorder Now
+PROD_0028,Electronics - Top,Electronics,10,39.0,16.0,42.0,Low Stock - Reorder Now
+PROD_0029,Clothing - Early,Clothing,5,34.0,14.0,107.0,Low Stock - Reorder Now
+PROD_0030,Electronics - Trial,Electronics,27,39.0,15.0,36.0,Low Stock - Reorder Now
+PROD_0031,Books - Blood,Books,0,19.0,9.0,34.0,Low Stock - Reorder Now
+PROD_0032,Clothing - Husband,Clothing,67,67.0,22.0,37.0,Low Stock - Reorder Now
+PROD_0033,Home Appliances - Fall,Home Appliances,94,76.0,26.0,58.0,Healthy
+PROD_0034,Electronics - Long,Electronics,31,25.0,13.0,42.0,Healthy
+PROD_0035,Clothing - Prove,Clothing,22,47.0,19.0,41.0,Low Stock - Reorder Now
+PROD_0036,Home Appliances - They,Home Appliances,67,26.0,12.0,127.0,Healthy
+PROD_0037,Electronics - His,Electronics,10,79.0,26.0,44.0,Low Stock - Reorder Now
+PROD_0038,Home Appliances - Commercial,Home Appliances,91,81.0,26.0,99.0,Healthy
+PROD_0039,Home Appliances - Hospital,Home Appliances,83,36.0,16.0,66.0,Healthy
+PROD_0040,Home Appliances - Hear,Home Appliances,94,68.0,20.0,37.0,Healthy
+PROD_0041,Clothing - Determine,Clothing,53,34.0,15.0,53.0,Healthy
+PROD_0042,Toys - Religious,Toys,46,68.0,23.0,36.0,Low Stock - Reorder Now
+PROD_0043,Home Appliances - Example,Home Appliances,69,63.0,20.0,116.0,Healthy
+PROD_0044,Home Appliances - Science,Home Appliances,0,62.0,20.0,45.0,Low Stock - Reorder Now
+PROD_0045,Home Appliances - Write,Home Appliances,34,37.0,16.0,121.0,Low Stock - Reorder Now
+PROD_0046,Electronics - Result,Electronics,33,31.0,14.0,48.0,Healthy
+PROD_0047,Home Appliances - Raise,Home Appliances,55,24.0,11.0,45.0,Healthy
+PROD_0048,Books - Away,Books,2,32.0,14.0,48.0,Low Stock - Reorder Now
+PROD_0049,Home Appliances - Politics,Home Appliances,84,36.0,14.0,107.0,Healthy
+PROD_0050,Toys - Prove,Toys,44,64.0,21.0,53.0,Low Stock - Reorder Now
