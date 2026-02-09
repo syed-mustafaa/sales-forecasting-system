@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,selling_price,supplier_id
+PROD_0001,Books - Surface,Books,52.6,80.87,SUP_001
+PROD_0002,Electronics - Animal,Electronics,117.13,187.91,SUP_001
+PROD_0003,Books - Show,Books,107.43,184.77,SUP_009
+PROD_0004,Toys - Machine,Toys,118.02,197.26,SUP_001
+PROD_0005,Home Appliances - Not,Home Appliances,352.09,518.35,SUP_003
+PROD_0006,Home Appliances - Capital,Home Appliances,479.03,703.83,SUP_002
+PROD_0007,Toys - Win,Toys,57.39,107.78,SUP_010
+PROD_0008,Clothing - Human,Clothing,405.49,723.31,SUP_009
+PROD_0009,Electronics - Bar,Electronics,486.83,731.62,SUP_009
+PROD_0010,Clothing - Old,Clothing,416.41,705.74,SUP_006
+PROD_0011,Books - Finally,Books,104.22,130.86,SUP_004
+PROD_0012,Clothing - Themselves,Clothing,492.76,928.49,SUP_002
+PROD_0013,Toys - Production,Toys,146.21,249.81,SUP_006
+PROD_0014,Home Appliances - Present,Home Appliances,191.39,261.75,SUP_005
+PROD_0015,Electronics - Value,Electronics,308.47,412.4,SUP_004
+PROD_0016,Home Appliances - Training,Home Appliances,236.51,334.89,SUP_009
+PROD_0017,Home Appliances - High,Home Appliances,345.46,647.49,SUP_001
+PROD_0018,Home Appliances - Participant,Home Appliances,412.68,761.0,SUP_007
+PROD_0019,Clothing - Dark,Clothing,42.43,81.91,SUP_010
+PROD_0020,Clothing - Sea,Clothing,114.19,182.63,SUP_008
+PROD_0021,Home Appliances - Available,Home Appliances,139.79,195.33,SUP_009
+PROD_0022,Books - Answer,Books,138.74,231.37,SUP_010
+PROD_0023,Toys - Recently,Toys,187.38,374.36,SUP_003
+PROD_0024,Books - Drive,Books,251.82,454.44,SUP_002
+PROD_0025,Home Appliances - Spring,Home Appliances,317.45,582.1,SUP_007
+PROD_0026,Books - Figure,Books,41.13,61.91,SUP_008
+PROD_0027,Books - Base,Books,133.19,218.78,SUP_001
+PROD_0028,Electronics - Top,Electronics,344.04,560.64,SUP_005
+PROD_0029,Clothing - Early,Clothing,64.66,100.08,SUP_008
+PROD_0030,Electronics - Trial,Electronics,477.37,907.33,SUP_005
+PROD_0031,Books - Blood,Books,383.36,615.73,SUP_002
+PROD_0032,Clothing - Husband,Clothing,422.42,678.46,SUP_004
+PROD_0033,Home Appliances - Fall,Home Appliances,193.22,256.84,SUP_009
+PROD_0034,Electronics - Long,Electronics,303.48,482.8,SUP_002
+PROD_0035,Clothing - Prove,Clothing,440.57,821.81,SUP_005
+PROD_0036,Home Appliances - They,Home Appliances,38.38,73.01,SUP_002
+PROD_0037,Electronics - His,Electronics,368.63,683.0,SUP_009
+PROD_0038,Home Appliances - Commercial,Home Appliances,72.91,115.21,SUP_009
+PROD_0039,Home Appliances - Hospital,Home Appliances,139.88,265.48,SUP_007
+PROD_0040,Home Appliances - Hear,Home Appliances,465.17,839.27,SUP_004
+PROD_0041,Clothing - Determine,Clothing,205.51,357.04,SUP_006
+PROD_0042,Toys - Religious,Toys,450.81,703.8,SUP_004
+PROD_0043,Home Appliances - Example,Home Appliances,41.37,50.34,SUP_009
+PROD_0044,Home Appliances - Science,Home Appliances,298.34,359.72,SUP_001
+PROD_0045,Home Appliances - Write,Home Appliances,43.03,52.72,SUP_006
+PROD_0046,Electronics - Result,Electronics,261.94,372.68,SUP_008
+PROD_0047,Home Appliances - Raise,Home Appliances,274.22,487.75,SUP_010
+PROD_0048,Books - Away,Books,241.61,441.59,SUP_007
+PROD_0049,Home Appliances - Politics,Home Appliances,56.22,97.1,SUP_006
+PROD_0050,Toys - Prove,Toys,211.44,399.85,SUP_001

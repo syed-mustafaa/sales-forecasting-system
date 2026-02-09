@@ -1,0 +1,11 @@
+supplier_id,supplier_name,lead_time_days
+SUP_001,"Rodriguez, Figueroa and Sanchez",13
+SUP_002,Doyle Ltd,4
+SUP_003,"Mcclain, Miller and Henderson",3
+SUP_004,Davis and Sons,14
+SUP_005,"Guzman, Hoffman and Baldwin",7
+SUP_006,"Gardner, Robinson and Lawrence",6
+SUP_007,Blake and Sons,6
+SUP_008,"Henderson, Ramirez and Lewis",5
+SUP_009,Garcia-James,14
+SUP_010,Abbott-Munoz,4
