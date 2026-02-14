@@ -1,3 +1,14 @@
+"""
+Inventory Optimization Module
+
+This module calculates optimal inventory parameters for each product:
+- Safety Stock: Buffer stock to maintain service level
+- Reorder Point (ROP): Inventory level triggering new orders
+- Economic Order Quantity (EOQ): Cost-minimizing order size
+
+Uses historical sales data to identify stockout risks and overstock situations.
+"""
+
 import pandas as pd
 import numpy as np
 import os
