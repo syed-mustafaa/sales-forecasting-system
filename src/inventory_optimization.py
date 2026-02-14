@@ -109,9 +109,18 @@ if __name__ == "__main__":
         'reorder_point', 'safety_stock', 'eoq', 'risk_status'
     ]]
     
-    print(f"Recommendations generated for {len(recommendations)} products.")
+    print(f"\nRecommendations generated for {len(recommendations)} products.")
+    print("\n" + "="*50)
+    print("INVENTORY RISK SUMMARY")
+    print("="*50)
     print(recommendations['risk_status'].value_counts())
+    
+    # Highlight critical products
+    critical_products = recommendations[recommendations['risk_status'] == 'Low Stock - Reorder Now']
+    if len(critical_products) > 0:
+        print(f"\n⚠️  ALERT: {len(critical_products)} products need immediate restocking!")
     
     output_path = "data/optimization/inventory_recommendations.csv"
     recommendations.to_csv(output_path, index=False)
-    print(f"Saved recommendations to {output_path}")
+    print(f"\n✓ Saved recommendations to {output_path}")
+
