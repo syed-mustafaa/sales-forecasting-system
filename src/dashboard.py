@@ -21,7 +21,7 @@ except FileNotFoundError:
     st.stop()
 
 # Sidebar
-st.sidebar.title("Navigation")
+st.sidebar.title("🧭 Navigation")
 page = st.sidebar.radio("Go to", ["Overview", "Sales Analytics", "Forecast", "Inventory Optimization"])
 
 if page == "Overview":

@@ -45,6 +45,9 @@ def evaluate_model(actual, forecast, model_name):
     return mape, rmse
 
 if __name__ == "__main__":
+    print("-" * 50)
+    print("Starting Sales Forecasting Pipeline...")
+    print("-" * 50)
     print("Loading data...")
     df = load_data()
     
